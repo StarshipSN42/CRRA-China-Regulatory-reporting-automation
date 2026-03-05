@@ -1,4 +1,5 @@
 Regulatory Reporting Automation Suite
+
 End-to-end data pipeline architecture for financial regulatory compliance
 
 The Problem
@@ -7,7 +8,6 @@ The existing system had no real architecture — no separation between business 
 
 The Solution
 Independently architected and delivered a full automation suite from scratch — no dedicated engineering team, no external consultants, in three months.
-
 Core components:
 	∙	A custom 3+6 data model decoupling core business data from regulatory logic
 	∙	50+ automation pipelines built on Dataiku covering ingestion, calculation, validation, and variance analysis
