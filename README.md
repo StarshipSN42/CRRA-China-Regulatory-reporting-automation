@@ -9,13 +9,20 @@ A top-tier international bank in China faced a breaking point: 900+ regulatory r
 The existing system had no real architecture — no separation between business data and regulatory logic, no validation, no auditability. Every change required IT intervention. Every error required manual firefighting.
 
 ## The Solution
+
 Independently architected and delivered a full automation suite from scratch — no dedicated engineering team, no external consultants, in three months.
 
 Core components:
-	∙	A custom 3+6 data model decoupling core business data from regulatory logic
-	∙	50+ automation pipelines built on Dataiku covering ingestion, calculation, validation, and variance analysis
-	∙	Automated anomaly detection and cross-report reconciliation
-	∙	Confluence-based documentation enabling full handover to business users
+
+A custom 3+6 data model decoupling core business data from regulatory logic
+
+50+ automation pipelines built on Dataiku covering ingestion, calculation, validation, and variance analysis
+
+Automated anomaly detection and cross-report reconciliation
+
+Confluence-based documentation enabling full handover to business users
+
+![System Overview](assets/overview.png)
 
 ## Engineering Philosophy: The Five-Step Path
 
