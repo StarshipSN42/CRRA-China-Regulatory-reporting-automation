@@ -81,6 +81,7 @@ Five principles, in order:
 |Organisational impact       |Adopted as bank-wide standard architecture|
 
 ## Tech Stack
-Dataiku SQL Python Alteryx Confluence
+`Dataiku` `SQL` `Python` `Alteryx` `Confluence`
 
-→ System Architecture & Design Decisions
+→ [System Architecture & Design Decisions](ARCHITECTURE.md)
+
