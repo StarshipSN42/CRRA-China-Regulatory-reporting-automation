@@ -1,4 +1,4 @@
-# Sustainable Digitalisation Why I Designed a System to Make Itself Unnecessary
+# Sustainable Digitalisation: Why I Designed a System to Make Itself Unnecessary
 
 In most organisations, job security comes from being indispensable.
 
