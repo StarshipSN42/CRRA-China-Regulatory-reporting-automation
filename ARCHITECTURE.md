@@ -80,7 +80,9 @@ The approach was deliberate: first map every Alteryx concept to its Dataiku equi
 
 This became the template for how other departments approached Dataiku. Training sessions started with a functional demo, followed by hands-on walkthroughs. No theoretical introductions, no slide decks about what low-code means. Show it working, then let people try it.
 
-The result: Dataiku spread across Finance, Operations, Technology, and parts of the business-facing divisions. At peak, 800+ projects existed on the platform across Standard Chartered China. By code contribution volume, this project’s developer ranked first across the entire bank — by a significant margin.
+The result: Dataiku spread across Finance, Operations, Technology, and parts of the business-facing divisions. At peak, 800+ projects existed on the platform across Standard Chartered China. 
+
+By code contribution volume, this project’s developer ranked first across the entire bank — by a significant margin.
 
 When the platform was eventually discontinued, the bank didn’t abandon low-code. It went looking for a replacement.
 
