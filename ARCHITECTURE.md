@@ -131,3 +131,5 @@ A long-standing reconciliation failure between NFRA 1104 and EAST reports — ca
 When the low-code platform was discontinued for political reasons, the engineering team didn’t revert. They went looking for another tool to keep working the same way.
 
 ***The system outlived its platform. The methodology outlived the system.***
+
+[Philosophy: Sustainable Digitalisation](PHILOSOPHY.md)
